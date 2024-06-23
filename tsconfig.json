@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/index.jsx", "components/TabBar.jsx", "components/ColorList.jsx", "app/settings.jsx", "app/history.jsx", "app/_layout.jsx"  ]
 }
